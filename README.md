@@ -1,6 +1,6 @@
 # To-Do List App using Flutter
 
-##created for learning purrposes.
+created for learning purposes.
 
 Understanding state management
 Understand the difference between ephemeral (local) state and app state.
